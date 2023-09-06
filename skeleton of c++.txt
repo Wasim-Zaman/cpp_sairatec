@@ -1,0 +1,10 @@
+< less than | open angle bracket
+> greater than | close angle bracket
+
+(	open round bracket
+)	close round bracket
+
+{	open curley bracket
+}	close curley bracket
+
+;	semi colon
